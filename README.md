@@ -20,7 +20,7 @@ As the instruction shows, insert command #:
 - #9 : Terminate  
   
 ![usage](./images/usage.png)  
-&nbsp  
+&nbsp;  
 ### FYI  
 This program is coded when I was first grade in college. Please don't care of the file name (LinkedListType.c?) 
 and use Bubble Sorting;)
